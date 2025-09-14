@@ -22,7 +22,7 @@ This project implements a Smart Attendance System using face recognition. It lev
 1.  **Clone the repository:** (Once uploaded to GitHub)
     ```bash
     git clone <your-repo-url>
-    cd SmartAttendanceSystem
+    cd Smart-Attendance-System
     ```
 2.  **Install dependencies:**
     ```bash
